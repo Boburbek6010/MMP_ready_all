@@ -41,5 +41,5 @@ const uzUZ = {
   "length_word_error":"so'z uzunligi 2 dan katta bo'lishi kerak",
   "deleted_successfully":"Barcha so'zlar muvaffaqiyatli o'chirildi",
   "length_not_enough":"Ushbu testdan foydalanish uchun saqlangan so'zlar 4 ta dan kam bo'lmasligi kerak",
-  "number_of_words":"Sizdan saqlangan so'zlar soni => ",
+  "number_of_words":"Sizda saqlangan so'zlar soni => ",
 };

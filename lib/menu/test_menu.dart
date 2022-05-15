@@ -150,7 +150,7 @@ class TestMenu extends Menu {
       return '$t';
     }else{
       print("\t "+'number_of_words'.tr+'$counter');
-      redFont("length_not_enough".tr);
+      redFont("length_not_enough".tr+'\n\n');
       await Navigator.push(CreateWordMenu());
     }
     return '';
