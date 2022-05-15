@@ -10,10 +10,7 @@ import 'package:learn_english_word_by_word/services/io_service.dart';
 import 'package:learn_english_word_by_word/services/lang_service.dart';
 import 'package:learn_english_word_by_word/services/word_service.dart';
 
-
-
 void main() async {
-
 
   font("\t\t\t\t\t\t"+"welcome".tr+"\t\t\t\t\t\t");
 

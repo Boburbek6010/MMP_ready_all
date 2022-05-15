@@ -144,7 +144,7 @@ class TestMenu extends Menu {
         l = [];
       }
 
-      print("\n\t\t\t" + "correct_answers".tr + " =>" + " $t");
+      print("\n\t\t\t" + "correct_answers".tr + " =>" + " $n : " + "$t");
       print('\t\t\t' + 'percent'.tr + ' => ' +
           ((t * 100) / list2.length).toStringAsFixed(2) + ' %' + '\n\n\n');
       return '$t';
